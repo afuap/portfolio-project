@@ -29,7 +29,6 @@ p {
 }
 
 img {
-  transform: scale(0.6);
   border-radius: 4px;
 }
 
@@ -73,6 +72,21 @@ img {
 
 .image-container {
   background-color: var(--secondary-color);
+}
+
+.weather {
+  padding: 30px 20px;
+  transform: scale(0.8);
+}
+
+.african-food {
+  padding: 100px 30px;
+  transform: scale(0.9);
+}
+
+.world-clock {
+  padding: 50px 40px;
+  transform: scale(0.9);
 }
 
 .btn-branding-outline {
