@@ -137,10 +137,9 @@ nav li {
   transform: scale(0.9);
 }
 
-.world-clock {
-  padding: 50px 40px;
-  margin-bottom: 15px;
-  transform: scale(0.9);
+.dictionary {
+  padding: 25px 40px;
+  transform: scale(0.8);
 }
 
 .btn-branding-outline {
